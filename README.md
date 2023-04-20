@@ -23,4 +23,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
      <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=tsql&sort="><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="TSQL"/></a>
   
+  
 </div>
+    <a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=Zwiicker" alt="Zwiicker"/></a>
