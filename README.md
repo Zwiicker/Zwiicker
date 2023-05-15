@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=css&sort="><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/</a> 
-   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a> 
+  <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/</a> 
+   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=angular&sort="><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a> 
    <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=tsql&sort="><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="TSQL"/></a>
 </div>
