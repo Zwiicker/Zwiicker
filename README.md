@@ -1,17 +1,3 @@
-<!--
-**Zwiicker/Zwiicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="left">
   <h3>Linguagens e Ferramentas</h3>
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=c%23&sort="><img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a>
@@ -25,4 +11,16 @@ Here are some ideas to get you started:
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=tsql&sort="><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="TSQL"/></a>
     <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=powerbi&sort="><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBi"/></a>
 </div>
-    <a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=Zwiicker" alt="Zwiicker"/></a>
+    
+
+### GitHub Stats
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zwiicker&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+
+### Contatos:
+
+<div>
+<a href = "mailto:hickzwicker@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/henriquezgm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<br>
+<br>
+<a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=Zwiicker" alt="Zwiicker"/></a>
