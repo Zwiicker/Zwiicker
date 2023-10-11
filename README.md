@@ -7,6 +7,7 @@
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=typescript&sort="><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/</a> 
    <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=angular&sort="><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a> 
+    <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=c%23&sort="><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="C#"/></a>
    <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=tsql&sort="><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="TSQL"/></a>
     <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=powerbi&sort="><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBi"/></a>
