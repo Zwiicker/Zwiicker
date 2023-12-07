@@ -9,13 +9,12 @@
   </a><a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"alt="React"/></a>
    <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=angular&sort="><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a> 
     <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=c%23&sort="><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="C#"/></a>
-   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=tsql&sort="><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="TSQL"/></a>
     <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=powerbi&sort="><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBi"/></a>
 </div>
-    
+
 ### GitHub Stats
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zwiicker&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zwiicker&layout=donut&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 
 
 ### Contatos:
