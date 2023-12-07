@@ -14,7 +14,8 @@
     <a href="https://github.com/Zwiicker?tab=repositories&q=&type=&language=powerbi&sort="><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBi"/></a>
 </div>
     
-
+### GitHub Stats
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zwiicker&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
 
 
 ### Contatos:
